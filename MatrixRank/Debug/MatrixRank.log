@@ -1,0 +1,6 @@
+﻿  MatrixRank.cpp
+C:\ParallelProgramming\MatrixRank\MatrixRank.cpp(105,12): warning C4244:  инициализация: преобразование "double" в "int", возможна потеря данных
+C:\ParallelProgramming\MatrixRank\MatrixRank.cpp(106,21): warning C4244:  инициализация: преобразование "double" в "int", возможна потеря данных
+C:\ParallelProgramming\MatrixRank\MatrixRank.cpp(107,32): warning C4244:  инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+C:\ParallelProgramming\MatrixRank\MatrixRank.cpp(122,26): warning C4244:  аргумент: преобразование "double" в "DWORD", возможна потеря данных
+  MatrixRank.vcxproj -> C:\ParallelProgramming\MatrixRank\Debug\MatrixRank.exe
